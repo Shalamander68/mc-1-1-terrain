@@ -1,0 +1,17 @@
+{
+  "_comment": "Example: Mt. Fuji summit area — small region for quick testing",
+  "lat_tl":  35.365,
+  "lon_tl": 138.725,
+  "lat_br":  35.355,
+  "lon_br": 138.740,
+
+  "spacing_m": 5,
+
+  "mc_x": 0,
+  "mc_z": 0,
+  "mc_sea_level": 64,
+  "real_sea_m": 0.0,
+  "vertical_scale": 0.5,
+
+  "out_dir": "./output"
+}
